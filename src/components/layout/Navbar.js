@@ -26,7 +26,7 @@ export default function NavigationBar(props) {
       <AppBar position="static">
         <Toolbar variant="dense">
           <Typography variant="h6" color="inherit">
-            Single-Store { username }
+            Single-Store : { username }
           </Typography>
         </Toolbar>
         <Tabs>
